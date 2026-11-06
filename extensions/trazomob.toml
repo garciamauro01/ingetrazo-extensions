@@ -9,7 +9,7 @@ license = "GPL-3.0-or-later"
 repository = "https://github.com/garciamauro01/trazomob"
 
 download = "https://github.com/garciamauro01/trazomob/releases/download/v1.0.0/trazomob.zip"
-sha256 = "a0a7cc36b7ea2b88e3fa1924d618738458f4659f7a60c1ead6cf85d81eb67a3e"
+sha256 = "ea9bd2beb1caa7ff7c35fa028ffdf3c357b6e121ab99e3f521e85e4eaa15b667"
 
 ingetrazo = "0.5.11"
 
